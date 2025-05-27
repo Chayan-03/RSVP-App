@@ -1,7 +1,6 @@
-# Full Stack RSVP App | Next.js 15, Supabase and Resend - Repository from my YouTube tutorial
+# Full Stack RSVP App | Next.js 15, Supabase and Resend 
+[![View on Vercel](https://img.shields.io/badge/View%20App-Vercel-black?logo=vercel&style=for-the-badge)](https://rsvp-app-two.vercel.app)
 
-[![Video](https://github.com/user-attachments/assets/874a23d2-8e8a-4b31-9185-d39dee1d4197)
-](https://youtu.be/du_xO7fNdos)
 
 ## Technologies used
 
@@ -60,13 +59,7 @@ bun dev
 
 <img width="606" alt="Screenshot 2024-12-29 at 10 23 39" src="https://github.com/user-attachments/assets/c2f647f2-db82-4a0c-a950-08245482b87c" />
 
-### Add Row Level Security Policies
 
-#### Allow anonymous inserts
-<img width="548" alt="Screenshot 2024-12-29 at 10 32 46" src="https://github.com/user-attachments/assets/bba99603-73c4-446b-8255-497d38aeae87" />
-
-#### Owner access
-<img width="550" alt="Screenshot 2024-12-29 at 10 35 49" src="https://github.com/user-attachments/assets/788ac00a-ea3d-4c11-9be2-e2bf0198f499" />
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
