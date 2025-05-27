@@ -34,6 +34,7 @@ export function RSVPTable({ data }: RSVPTableProps) {
 
   return (
     <div>
+
       <div className="flex items-center py-4">
         <Input
           placeholder="Filter by name..."

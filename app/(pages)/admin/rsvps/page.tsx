@@ -6,6 +6,7 @@ import { House } from "lucide-react";
 import Link from "next/link";
 
 export default async function RSVPsPage() {
+
   const { success, data, message } = await getRSVPs();
 
   if (!success) {

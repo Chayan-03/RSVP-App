@@ -10,6 +10,7 @@ export async function getRSVPs() {
   if (error) {
     console.error("Error fetching RSVPs:", error);
     return { success: false, message: "Failed to fetch RSVPs" };
+
   }
 
   return { success: true, data };

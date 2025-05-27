@@ -14,6 +14,7 @@ export async function submitRSVP(formData: FormData) {
   const accompany = formData.get("accompany");
   const attendance = formData.get("attendance");
 
+
   const { data, error } = await supabase
     .from("rsvps")
     .insert([{ name, email, accompany, attendance }]);

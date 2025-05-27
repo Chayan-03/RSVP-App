@@ -17,4 +17,5 @@ export const strings = {
   viewOnMapButton: "View Location on Google Maps",
   sendFromEmail: "onboarding@resend.dev",
   sendToEmail: process.env.EMAIL_TO,
+
 };

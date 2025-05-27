@@ -23,6 +23,7 @@ export default function RSVPForm() {
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!name) {
+
       setErrors({ name: "Name is required" });
       return;
     }
